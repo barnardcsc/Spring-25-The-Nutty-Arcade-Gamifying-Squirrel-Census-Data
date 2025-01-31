@@ -24,6 +24,12 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
 2. [Download LÖVE](https://love2d.org/)
 
+### **Running your game**
+
+1. Open your laptop's terminal
+2. Navigate to the folder location of your game by typing: “cd [insert folder name here]”
+3. Run **"C:\Program Files\LOVE\love.exe" .** on Windows or **/Applications/love.app/Contents/MacOS/love .** on Mac (don't forget the period at the end!)
+
 
 ## **Code**
 
