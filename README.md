@@ -1,7 +1,7 @@
 # Spring-25-The-Nutty-Arcade-Gamifying-Squirrel-Census-Data
 NYC Open Data Week 2025 Workshop
 
-```
+```lua
 function love.load()
     math.randomseed(os.time())
     love.window.setTitle('NYC Open Data Week 2025')
