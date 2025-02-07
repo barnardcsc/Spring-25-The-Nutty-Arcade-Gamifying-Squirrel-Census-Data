@@ -594,6 +594,8 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
   
   ```lua
     require 'src/dependencies'
+    VIRTUAL_WIDTH = 1280 
+    VIRTUAL_HEIGHT = 720 
     
     function love.load()
         love.window.setTitle('NYC Open Data Week 2025') -- appears at top of window
@@ -623,7 +625,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
     
     function love.keypressed(key)
         love.keyboard.keysPressed[key] = true
-        if key == "return" or key == "enter" then
+        if key == "return" or key == "enter" then -- resets park every time you hit enter
             love.event.quit('restart')
         end
         if key == "escape" then
