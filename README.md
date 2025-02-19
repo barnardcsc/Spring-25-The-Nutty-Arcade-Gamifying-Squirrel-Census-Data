@@ -8,6 +8,11 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ### **Dataset:** [Squirrel Census Data](https://www.dropbox.com/scl/fi/is2yaa5gz1of32xo1xwvd/squirrel-data.csv?rlkey=sao5wj2tqd98nzs6rsi5k7ot6&e=2&dl=0)
 
+### **Environment Setup (The tools necessary to build our game!)**
+
+1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
+2. [Download LÖVE](https://love2d.org/)
+
 
 ### **Graphics, Font & Soundtrack**
 
@@ -18,11 +23,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 5. [Dafont](https://www.dafont.com/)
 6. [Cozy Animal Crossing Music](https://youtu.be/8kBlKM71pjc?si=20Xfh4WgZb2Sj34r)
 
-
-### **Environment Setup**
-
-1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
-2. [Download LÖVE](https://love2d.org/)
 
 ### **Running your game**
 
