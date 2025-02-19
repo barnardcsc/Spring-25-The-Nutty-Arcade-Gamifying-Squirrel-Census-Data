@@ -13,7 +13,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
 2. [Download LÖVE](https://love2d.org/)
 
-### **Download the project template [here](https://drive.google.com/drive/folders/1DldCmsf8Hphu2LOz_s2RQmjN1qN4yBVv?usp=drive_link)** ###
+### **Download the project template [here](https://drive.google.com/drive/folders/1sw_HqMAoGe-OUD2Q_HwDxi8FXagq2Q7u?usp=drive_link)** ###
 
 
 ### **Graphics, Font & Soundtrack**
