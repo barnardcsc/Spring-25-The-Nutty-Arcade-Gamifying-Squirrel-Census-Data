@@ -13,6 +13,8 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
 2. [Download LÖVE](https://love2d.org/)
 
+## **Download the project template [here](https://drive.google.com/drive/folders/1P6G2ZDMX5l5rtnlkdgNZUAH6VNDn-Nfo?usp=drive_link)** ##
+
 
 ### **Graphics, Font & Soundtrack**
 
@@ -43,9 +45,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 | lib            | Animation.lua, class.lua, push.lua, StateMachine.lua, Util.lua    |    
 | src            | Area.lua, constants.lua, dependencies.lua, entity_defs.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
 | main.lua (file)        |    
-
-
-## **Download the project template [here](https://drive.google.com/drive/folders/1P6G2ZDMX5l5rtnlkdgNZUAH6VNDn-Nfo?usp=drive_link)** ##
 
 
 
