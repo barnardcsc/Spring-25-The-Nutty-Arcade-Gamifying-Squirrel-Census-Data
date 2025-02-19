@@ -16,12 +16,12 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ### **Graphics, Font & Soundtrack**
 
-1. [Sprite Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack)
-2. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods)
-3. [Itch.io](http://Itch.io)
-4. [Figma](http://figma.com)
-5. [Dafont](https://www.dafont.com/)
-6. [Cozy Animal Crossing Music](https://youtu.be/8kBlKM71pjc?si=20Xfh4WgZb2Sj34r)
+1. [Sprite Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) (Environment + main character)
+2. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods) (Brown squirrels)
+3. [Itch.io](http://Itch.io) (Place to find lots of game-related resources)
+4. [Figma](http://figma.com) (Great for designing/modifying assets)
+5. [Dafont](https://www.dafont.com/) (Fonts)
+6. [Cozy Animal Crossing Music](https://youtu.be/8kBlKM71pjc?si=20Xfh4WgZb2Sj34r) (Soundtrack)
 
 
 ### **Running your game**
