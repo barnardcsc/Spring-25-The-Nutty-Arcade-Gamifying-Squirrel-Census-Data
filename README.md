@@ -36,7 +36,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 3. Run **C:\Program Files\LOVE\love.exe .** on Windows or **/Applications/love.app/Contents/MacOS/love .** on Mac (don't forget the period at the end!)
 
 
-## **Project hierarchy (the final result!)**
+## **Final project hierarchy**
 
 **Parent folder: squirrels**
 
