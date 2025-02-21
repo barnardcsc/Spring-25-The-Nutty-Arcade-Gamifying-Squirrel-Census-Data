@@ -23,7 +23,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 3. [Figma](http://figma.com) (Great for designing/modifying assets)
 4. [Dafont](https://www.dafont.com/) (Fonts)
 5. [Cozy Animal Crossing Music](https://youtu.be/8kBlKM71pjc?si=20Xfh4WgZb2Sj34r) (Soundtrack)
-6. Sprite sheets:
+6. Labeled sprite sheets:
 <img width="300" alt="Squirrels Sprite Sheet" src="https://github.com/user-attachments/assets/4ffa9517-888b-4d09-ae54-0c8155433054" />
 <img width="215" height="215" alt="Character Sprite Sheet" src="https://github.com/user-attachments/assets/861bc49f-eee1-4f24-992e-6ac2d335d3ed" />
 <img width="300" alt="Grass Sprite Sheet" src="https://github.com/user-attachments/assets/f8217443-9cd3-44ff-9dbf-ae7473ea5bfd" />
