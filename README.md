@@ -40,10 +40,10 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 | Sub-folders       | Contents           |
 | :-------------: |:-------------:| 
 | fonts         | hipchick.ttf |
-| sounds        | animalcrossing.wav      |  
-| graphics | all-squirrels.png, character.png, tileset2.png, tree.png  |   
-| lib            | Animation.lua, class.lua, push.lua, StateMachine.lua, Util.lua    |    
-| src            | Area.lua, constants.lua, dependencies.lua, entity_defs.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
+| graphics | grass.png, player.png, squirrels.png, tree.png  |   
+| lib            | Animation.lua, class.lua, push.lua, StateMachine.lua, Util.lua    |   
+| sounds        | animalcrossing.wav      |   
+| src            | Area.lua, dependencies.lua, entity_defs.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
 | main.lua (file)        |    
 
 
