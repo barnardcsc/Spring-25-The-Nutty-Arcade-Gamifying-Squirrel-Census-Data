@@ -51,7 +51,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 
 
-## **Code we will be writing during the workshop (feel free to copy + paste if you run into errors/fall behind!)**
+## **Code (copy + paste if you run into errors/fall behind during the workshop!)**
 
 
 
