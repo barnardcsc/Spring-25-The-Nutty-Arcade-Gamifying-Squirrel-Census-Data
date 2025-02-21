@@ -16,7 +16,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 ### **Download the project template [here](https://drive.google.com/drive/folders/1sw_HqMAoGe-OUD2Q_HwDxi8FXagq2Q7u?usp=drive_link)** ###
 
 
-### **Resources: Assets, Font, Soundtrack**
+### **Resources:**
 
 1. [Sprite Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) (Environment + main character)
 2. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods) (Brown squirrels)
