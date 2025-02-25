@@ -45,7 +45,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 | graphics | grass.png, player.png, squirrels.png, tree.png  |   
 | lib            | Animation.lua, class.lua, push.lua, StateMachine.lua, Util.lua    |   
 | sounds        | animalcrossing.wav      |   
-| src            | Area.lua, dependencies.lua, entity_defs.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
+| src            | dependencies.lua, entity_defs.lua, Grass.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
 | main.lua (file)        |    
 
 
