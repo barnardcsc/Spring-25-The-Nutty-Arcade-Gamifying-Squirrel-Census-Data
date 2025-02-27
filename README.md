@@ -17,8 +17,8 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ### **Game Resources:**
 
-1. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods) (Brown squirrels)
-2. [Sprite Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) (Environment + main character)
+1. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods) (Cinnamon squirrels)
+2. [Sprite Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) (Environment + player)
 3. [Figma](http://figma.com) (Great for designing/modifying assets)
 4. [Dafont](https://www.dafont.com/) (Fonts)
 5. [Cozy Animal Crossing Music](https://youtu.be/8kBlKM71pjc?si=20Xfh4WgZb2Sj34r) (Soundtrack)
