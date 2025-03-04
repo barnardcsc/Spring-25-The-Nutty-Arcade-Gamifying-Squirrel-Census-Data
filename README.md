@@ -28,7 +28,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 <img width="300" height="215" alt="Grass Sprite Sheet" src="https://github.com/user-attachments/assets/f8217443-9cd3-44ff-9dbf-ae7473ea5bfd" />
 
 7. Coordinate plane:
-<img width="670" height="350" alt="Screenshot 2025-03-04 at 6 16 22 PM" src="https://github.com/user-attachments/assets/c4fbea42-201b-4353-9343-5d6c10187c63" />
+<img width="620" height="350" alt="Screenshot 2025-03-04 at 6 16 22 PM" src="https://github.com/user-attachments/assets/c4fbea42-201b-4353-9343-5d6c10187c63" />
 
 
 
