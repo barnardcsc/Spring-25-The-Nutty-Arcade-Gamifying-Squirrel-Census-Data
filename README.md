@@ -28,7 +28,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 <img width="300" height="215" alt="Grass Sprite Sheet" src="https://github.com/user-attachments/assets/f8217443-9cd3-44ff-9dbf-ae7473ea5bfd" />
 
 
-## **Final project hierarchy**
+### **Final project hierarchy**
 
 **Parent folder: squirrels**
 
@@ -446,7 +446,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 
 
-## **Running your game**
+### **Running your game**
 
 1. Once your code is thorough enough to begin running your game, open your laptop's terminal
 2. Navigate to the folder location of your game by typing: “cd [insert folder name here]”
