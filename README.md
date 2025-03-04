@@ -169,7 +169,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
           ['player'] = {
               animations = {
                   ['walk-down'] = {frames = {1,2,3,4}, interval = 0.25, texture = 'player'},
-                  ['walk-up'] = {frames = {5,6,7, 8}, interval = 0.25, texture = 'player'},
+                  ['walk-up'] = {frames = {5,6,7,8}, interval = 0.25, texture = 'player'},
                   ['walk-left'] = {frames = {9,10,11,12}, interval = 0.25, texture = 'player'},
                   ['walk-right'] = {frames = {13,14,15,16}, interval = 0.25, texture = 'player'},
       
