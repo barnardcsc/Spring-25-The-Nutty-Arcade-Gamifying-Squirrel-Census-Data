@@ -6,16 +6,18 @@ NYC Open Data Week 2025 Workshop
 
 Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vagelos Computational Science Center)
 
-### **Dataset:** [Squirrel Census Data](https://www.dropbox.com/scl/fi/is2yaa5gz1of32xo1xwvd/squirrel-data.csv?rlkey=sao5wj2tqd98nzs6rsi5k7ot6&e=2&dl=0)
+## **Dataset:** 
 
-### **Environment Setup (The tools necessary to build our game!)**
+[Squirrel Census Data](https://www.dropbox.com/scl/fi/is2yaa5gz1of32xo1xwvd/squirrel-data.csv?rlkey=sao5wj2tqd98nzs6rsi5k7ot6&e=2&dl=0)
+
+## **Environment Setup (The tools necessary to build our game!)**
 
 1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
 2. [Download LÖVE](https://love2d.org/)
 3. [Download workshop template](https://drive.google.com/drive/folders/1sw_HqMAoGe-OUD2Q_HwDxi8FXagq2Q7u?usp=drive_link)
 
 
-### **Game Resources:**
+## **Game Resources:**
 
 1. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods) (Cinnamon squirrels)
 2. [Sprout Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) (Player + environment)
