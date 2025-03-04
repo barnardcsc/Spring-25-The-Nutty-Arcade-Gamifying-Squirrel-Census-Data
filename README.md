@@ -35,7 +35,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ## **Final project hierarchy**
 
-**Parent folder: squirrels**
+**Parent folder: squirrels-template**
 
 | Sub-folders       | Contents           |
 | :-------------: |:-------------:| 
