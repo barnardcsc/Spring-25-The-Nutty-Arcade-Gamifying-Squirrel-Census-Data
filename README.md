@@ -15,7 +15,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 3. [Download workshop template](https://drive.google.com/drive/folders/1sw_HqMAoGe-OUD2Q_HwDxi8FXagq2Q7u?usp=drive_link)
 
 
-## **Game resources**
+### **Game resources**
 
 1. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods) (Cinnamon squirrels)
 2. [Sprout Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) (Player + environment)
