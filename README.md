@@ -33,21 +33,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 
 
-## **Final project hierarchy**
-
-**Parent folder: squirrels-template**
-
-| Sub-folders       | Contents           |
-| :-------------: |:-------------:| 
-| fonts         | hipchick.ttf |
-| graphics | grass.png, player.png, squirrels.png, tree.png  |   
-| lib            | Animation.lua, class.lua, push.lua, StateMachine.lua, Util.lua    |   
-| sounds        | animalcrossing.wav      |   
-| src            | dependencies.lua, entity_defs.lua, Grass.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
-| main.lua (file)        |    
-
-
-
 ## **Code from the workshop**
 
 
@@ -447,6 +432,29 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
       end
   ```
 </details>
+
+
+
+
+
+
+
+## **Final project hierarchy**
+
+**Parent folder: squirrels-template**
+
+| Sub-folders       | Contents           |
+| :-------------: |:-------------:| 
+| fonts         | hipchick.ttf |
+| graphics | grass.png, player.png, squirrels.png, tree.png  |   
+| lib            | Animation.lua, class.lua, push.lua, StateMachine.lua, Util.lua    |   
+| sounds        | animalcrossing.wav      |   
+| src            | dependencies.lua, entity_defs.lua, Grass.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
+| main.lua (file)        |    
+
+
+
+
 
 
 
