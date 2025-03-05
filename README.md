@@ -12,7 +12,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
 2. [Download LÖVE](https://love2d.org/)
-3. [Download workshop template](https://drive.google.com/drive/folders/1i9z4GkV3CPN7ZGxwT09hQLCIw2cxIKIR?usp=sharing)
+3. [Download workshop template](https://drive.google.com/drive/folders/1UaBbWQBHgKeH1Ga273QdtkmohSJyD6We?usp=drive_link)
 
 
 ### **Game resources:**
