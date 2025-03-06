@@ -464,7 +464,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 1. Open your laptop's terminal
 2. Assuming ```squirrels-template``` is in your Downloads, type:   **cd Downloads/squirrels-template**   and then hit enter
 
-   (If it's located anywhere else, specify the path of folders it's nested within and substitute that path for "Downloads")
+   (If it's located anywhere else, determine the path of folders it's nested within and substitute that path for "Downloads")
 
    
 3. Now, your terminal should say ```squirrels-template``` on the left. This means we have successfully entered our game folder.
