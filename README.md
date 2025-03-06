@@ -11,7 +11,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 ### **Environment setup (the tools necessary to build our game!):**
 
 1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
-2. [Download LÖVE](https://love2d.org/)
+2. [Download LÖVE](https://love2d.org/) and add it to Applications (on Mac) or Program Files (on Windows)
 3. [Download workshop template](https://drive.google.com/drive/folders/1HWq2Vm4AxOYPZMD87tMVISUnAy01wzmB?usp=drive_link)
 
 
@@ -267,8 +267,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
           self.player = Player()
           self.grass = Grass()
       
-          package.path = package.path .. ';/opt/homebrew/share/lua/5.4/lua-csv/csv.lua'
-          local csv = require('csv')
+          local csv = require('lib/csv')
           local file = io.open('src/squirrel-data.csv', 'r')
           local data = file:read('*a')
           file:close()
@@ -448,7 +447,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 | :-------------: |:-------------:| 
 | fonts         | hipchick.ttf |
 | graphics | grass.png, player.png, squirrels.png, tree.png  |   
-| lib            | Animation.lua, class.lua, push.lua, StateMachine.lua, Util.lua    |   
+| lib            | Animation.lua, class.lua, csv.lua, push.lua, StateMachine.lua, Util.lua    |   
 | sounds        | animalcrossing.wav      |   
 | src            | dependencies.lua, entity_defs.lua, Grass.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
 | main.lua (file)        |    
@@ -462,6 +461,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ## **Running your game**
 
-1. Once your code is thorough enough to begin running your game, open your laptop's terminal
-2. Navigate to the folder location of your game by typing: “cd [insert folder name here]”
-3. Run **C:\Program Files\LOVE\love.exe .** on Windows or **/Applications/love.app/Contents/MacOS/love .** on Mac (don't forget the period at the end!)
+1. Open your laptop's terminal
+2. Navigate to the squirrels-template folder. E.g., if squirrels-template is in your Downloads, type: "cd Downloads/squirrels-template" and then hit enter
+3. Run **/Applications/love.app/Contents/MacOS/love .** on Mac or **C:\Program Files\LOVE\love.exe .** on Windows (don't forget the period at the end!)
