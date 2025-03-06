@@ -459,19 +459,20 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ## **Running our game**
 
+### Important notes: ###
+
+Please ensure that the following items are complete before attempting to run your game:
+
+- Ensure that squirrels-template is in your laptop's Downloads folder. If you would prefer to keep it in a different location, determine the path of folders it's nested within and then substitute that path for the word "Downloads" in Step 2.
+- For Mac users, ensure that you installed LÖVE under your laptop's Applications folder
+- For Windows users, ensure that you installed LÖVE under your laptop's Program Files 
+
+
 ### Mac users: ###
 
 1. Open your laptop's terminal
 2. Type **```cd Downloads/squirrels-template```** and then hit enter
-
-   (This assumes that squirrels-template is in your file downloads. If it's not, determine the path of folders it's nested within and substitute that path for "Downloads")
-
-   
-3. Now, your terminal should say squirrels-template on the left. This means you have successfully entered the game folder.
-
-   Copy + paste **```/Applications/love.app/Contents/MacOS/love .```** into your terminal, then hit enter.
-
-   (This will work as long as you installed LÖVE in the Applications folder upon setup)
+3. Copy + paste **```/Applications/love.app/Contents/MacOS/love .```** into your terminal, then hit enter
 
 
 
@@ -479,12 +480,4 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 1. Open your laptop's command prompt or terminal
 2. Type **```cd Downloads\squirrels-template```** and then hit enter
-
-   (This assumes that squirrels-template is in your file downloads. If it's not, determine the path of folders it's nested within and substitute that path for "Downloads")
-
-   
-3. Now, your terminal should say squirrels-template on the left. This means you have successfully entered the game folder.
-
-   Copy + paste **```"C:\Program Files\LOVE\love.exe" .```** into your terminal, then hit enter.
-
-   (This will work as long as you installed LÖVE in the folder C:\Program Files\LOVE upon setup)
+3. Copy + paste **```"C:\Program Files\LOVE\love.exe" .```** into your terminal, then hit enter
