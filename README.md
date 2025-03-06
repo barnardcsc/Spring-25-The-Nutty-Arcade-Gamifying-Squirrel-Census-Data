@@ -459,7 +459,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ## **Running our game**
 
-### Mac ###
+### Mac users: ###
 
 1. Open your laptop's terminal
 2. Type **```cd Downloads/squirrels-template```** and then hit enter
@@ -467,12 +467,24 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
    (This assumes that squirrels-template is in your file downloads. If it's not, determine the path of folders it's nested within and substitute that path for "Downloads")
 
    
-3. Now, your terminal should say squirrels-template on the left. This means you have successfully entered the game folder. Copy + paste one of the following lines into your terminal, then hit enter:
+3. Now, your terminal should say squirrels-template on the left. This means you have successfully entered the game folder.
 
-   For Mac users: &nbsp;&nbsp;&nbsp; **```/Applications/love.app/Contents/MacOS/love .```**
+   Copy + paste **```/Applications/love.app/Contents/MacOS/love .```** into your terminal, then hit enter.
+
+   (This will work as long as LÖVE in stored in your Applications.)
+
+
+
+### Windows users: ###
+
+1. Open your laptop's command prompt or terminal
+2. Type **```cd Downloads\squirrels-template```** and then hit enter
+
+   (This assumes that squirrels-template is in your file downloads. If it's not, determine the path of folders it's nested within and substitute that path for "Downloads")
+
    
-   For Windows users: &nbsp;&nbsp;&nbsp; **```C:\Program Files\LOVE\love.exe .```**
+3. Now, your terminal should say squirrels-template on the left. This means you have successfully entered the game folder.
 
-   (These commands will work as long as you installed LÖVE into Applications (Mac) or Program Files (Windows))
+   Copy + paste **```C:\Program Files\LOVE\love.exe .```** into your terminal, then hit enter.
 
-4. Enjoy! :)
+   (These commands will work as long as LÖVE in stored in your Program Files.)
