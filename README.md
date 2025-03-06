@@ -473,6 +473,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
    
    For Windows users: &nbsp;&nbsp;&nbsp; **```C:\Program Files\LOVE\love.exe .```**
 
-   (These commands will work as long as you installed LÖVE into Applications (Mac) or Program Files (Windows)!)
+   (These commands will work as long as you installed LÖVE into Applications (Mac) or Program Files (Windows))
 
 4. Enjoy! :)
