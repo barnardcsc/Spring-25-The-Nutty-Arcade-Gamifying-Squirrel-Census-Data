@@ -479,3 +479,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 1. Open your laptop's command prompt or terminal
 2. Copy + paste **```cd Downloads\squirrels-template```** into your terminal, then hit enter
 3. Copy + paste **```"C:\Program Files\LOVE\love.exe" .```** into your terminal, then hit enter
+
+
+$${\color{green}Green}$$
