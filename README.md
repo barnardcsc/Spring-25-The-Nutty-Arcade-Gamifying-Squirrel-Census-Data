@@ -481,4 +481,4 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 3. Copy + paste **```"C:\Program Files\LOVE\love.exe" .```** into your terminal, then hit enter
 
 
-$${\color{green}Green}$$
+${\color{green}Green}$
