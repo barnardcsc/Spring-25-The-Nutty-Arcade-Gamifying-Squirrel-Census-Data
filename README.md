@@ -459,7 +459,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ## **Running our game**
 
-### Ensure the following before attempting to run your game: ###
+### Before running your game, make sure: ###
 
 - squirrels-template is in your laptop's Downloads folder 
 - For Mac users, you installed LÖVE into your laptop's Applications folder
