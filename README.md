@@ -460,7 +460,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 ## **Running our game**
 
 1. Open your laptop's terminal
-2. Type: &nbsp;&nbsp;&nbsp; **```cd Downloads/squirrels-template```** &nbsp;&nbsp;&nbsp; and then hit enter
+2. Type **```cd Downloads/squirrels-template```** and then hit enter
 
    This assumes that squirrels-template is in your file downloads. If it's not, determine the path of folders it's nested within and substitute that path for "Downloads"
 
