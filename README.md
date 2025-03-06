@@ -465,8 +465,13 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 2. Navigate to the ```squirrels-template``` folder:
 
    E.g., if ```squirrels-template``` is in your Downloads, type:   **cd Downloads/squirrels-template**   and then hit enter
+
+   (If it's located anywhere else, just make sure to specify the path of folders it's nested within and substitute that path for "Downloads")
+
    
-4. Now, you should be in the squirrels-template folder in your terminal. Copy + paste one of the following lines into your terminal, then hit enter:
+4. Now you should be within ```squirrels-template``` in your terminal.
+
+   Copy & paste one of the following bolded lines into your terminal, then hit enter:
 
    For Mac users:      **/Applications/love.app/Contents/MacOS/love .**
    
