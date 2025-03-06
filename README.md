@@ -465,7 +465,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
    (If it's located anywhere else, determine the path of folders it's nested within and substitute that path for "Downloads")
 
    
-3. Now, your terminal should say ```squirrels-template``` on the left. This means you have successfully entered the game folder.
+3. Now, your terminal should say squirrels-template on the left. This means you have successfully entered the game folder.
 
    Copy/paste one of the following bolded lines into your terminal, then hit enter:
 
