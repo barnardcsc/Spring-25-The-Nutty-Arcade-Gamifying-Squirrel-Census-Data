@@ -459,6 +459,8 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ## **Running our game**
 
+### Mac ###
+
 1. Open your laptop's terminal
 2. Type **```cd Downloads/squirrels-template```** and then hit enter
 
