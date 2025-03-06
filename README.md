@@ -459,11 +459,11 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 ## **Running our game**
 
-### Before running your game, make sure: ###
+### Important notes: ###
 
-- squirrels-template is in your laptop's Downloads folder 
-- For Mac users, you installed LÖVE into your laptop's Applications folder
-- For Windows users, you installed LÖVE into your laptop's Program Files 
+- Ensure that squirrels-template is in your laptop's Downloads folder 
+- For Mac users, check that you installed LÖVE into your laptop's Applications folder
+- For Windows users, check that you installed LÖVE into your laptop's Program Files 
 
 
 ### Mac users: ###
