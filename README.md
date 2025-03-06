@@ -468,6 +468,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
    
 3. Now, you should be in the squirrels-template folder in your terminal. Copy + paste one of the following lines into your terminal, then hit enter:
 
-   Mac:    **/Applications/love.app/Contents/MacOS/love .**
+   For Mac users: &nbsp&nbsp&nbsp **/Applications/love.app/Contents/MacOS/love .**
    
-   Windows:    **C:\Program Files\LOVE\love.exe .** 
+   For Windows users: &nbsp&nbsp&nbsp **C:\Program Files\LOVE\love.exe .** 
