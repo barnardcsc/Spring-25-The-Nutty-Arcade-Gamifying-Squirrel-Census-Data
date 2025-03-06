@@ -471,7 +471,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
    Copy + paste **```/Applications/love.app/Contents/MacOS/love .```** into your terminal, then hit enter.
 
-   (This will work as long as LÖVE in stored in your Applications.)
+   (This will work as long as you installed LÖVE in the Applications folder upon setup)
 
 
 
@@ -487,4 +487,4 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
    Copy + paste **```C:\Program Files\LOVE\love.exe .```** into your terminal, then hit enter.
 
-   (These commands will work as long as LÖVE in stored in your Program Files.)
+   (This will work as long as you installed LÖVE in the folder C:\Program Files\LOVE upon setup)
