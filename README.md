@@ -467,7 +467,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
    
 3. Now, your terminal should say squirrels-template on the left. This means you have successfully entered the game folder.
 
-   Copy/paste one of the following bolded lines into your terminal, then hit enter:
+   Copy + paste one of the following bolded lines into your terminal, then hit enter:
 
    For Mac users: &nbsp;&nbsp;&nbsp; **```/Applications/love.app/Contents/MacOS/love .```**
    
