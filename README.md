@@ -11,7 +11,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 ### **Environment setup (the tools necessary to build our game!):**
 
 1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
-2. [Download LÖVE](https://love2d.org/) to Applications (Mac) or Program Files (Windows)
+2. [Download LÖVE](https://love2d.org/) -> place within Applications (Mac) or Program Files (Windows)
 3. [Download squirrels-template](https://drive.google.com/drive/folders/1Cppc49yuj7DFr-kQffVcl65eKnL7lnM-?usp=drive_link)
 
 
