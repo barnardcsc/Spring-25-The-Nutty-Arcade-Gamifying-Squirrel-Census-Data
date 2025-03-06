@@ -462,7 +462,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 ## **Running your game**
 
 1. Open your laptop's terminal
-2. Navigate to the ```squirrels-template``` folder:
+2. Navigate to the game's parent folder:
 
    E.g., if ```squirrels-template``` is in your Downloads, type:   **cd Downloads/squirrels-template**   and then hit enter
 
