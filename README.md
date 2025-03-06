@@ -460,7 +460,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 ## **Running our game**
 
 1. Open your laptop's terminal
-2. Assuming ```squirrels-template``` is in your Downloads, type:   **cd Downloads/squirrels-template**   and then hit enter
+2. Assuming ```squirrels-template``` is in your Downloads, type: &nbsp;&nbsp;&nbsp; **cd Downloads/squirrels-template** &nbsp;&nbsp;&nbsp; and then hit enter
 
    (If it's located anywhere else, determine the path of folders it's nested within and substitute that path for "Downloads")
 
@@ -469,6 +469,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
    Copy & paste one of the following bolded lines into your terminal, then hit enter:
 
-   For Mac users:      **/Applications/love.app/Contents/MacOS/love .**
+   For Mac users: &nbsp;&nbsp;&nbsp; **/Applications/love.app/Contents/MacOS/love .**
    
-   For Windows users:      **C:\Program Files\LOVE\love.exe .** 
+   For Windows users: &nbsp;&nbsp;&nbsp; **C:\Program Files\LOVE\love.exe .** 
