@@ -485,6 +485,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
    
 3. Now, your terminal should say squirrels-template on the left. This means you have successfully entered the game folder.
 
-   Copy + paste **```C:\Program Files\LOVE\love.exe .```** into your terminal, then hit enter.
+   Copy + paste **```"C:\Program Files\LOVE\love.exe" .```** into your terminal, then hit enter.
 
    (This will work as long as you installed LÖVE in the folder C:\Program Files\LOVE upon setup)
