@@ -462,5 +462,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 ## **Running your game**
 
 1. Open your laptop's terminal
-2. Navigate to the squirrels-template folder. E.g., if squirrels-template is in your Downloads, type: "cd Downloads/squirrels-template" and then hit enter
-3. Run **/Applications/love.app/Contents/MacOS/love .** on Mac or **C:\Program Files\LOVE\love.exe .** on Windows (don't forget the period at the end!)
+2. Navigate to the squirrels-template folder.
+   E.g., if squirrels-template is in your Downloads, type: "cd Downloads/squirrels-template" and then hit enter
+4. Run **/Applications/love.app/Contents/MacOS/love .** on Mac or **C:\Program Files\LOVE\love.exe .** on Windows (don't forget the period at the end!)
