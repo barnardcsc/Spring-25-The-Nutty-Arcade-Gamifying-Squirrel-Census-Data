@@ -459,17 +459,15 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 
 
-## **Running your game**
+## **Running our game**
 
 1. Open your laptop's terminal
-2. Navigate to your game's parent folder (in our case, this is ```squirrels-template```):
-
-   Assuming ```squirrels-template``` is in your Downloads, type:   **cd Downloads/squirrels-template**   and then hit enter
+2. Assuming ```squirrels-template``` is in your Downloads, type:   **cd Downloads/squirrels-template**   and then hit enter
 
    (If it's located anywhere else, specify the path of folders it's nested within and substitute that path for "Downloads")
 
    
-4. Now you should be within ```squirrels-template``` in your terminal.
+3. Now, your terminal should say ```squirrels-template``` on the left. This means we have successfully entered our game folder.
 
    Copy & paste one of the following bolded lines into your terminal, then hit enter:
 
