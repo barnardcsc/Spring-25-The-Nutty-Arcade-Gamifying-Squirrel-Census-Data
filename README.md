@@ -265,7 +265,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
           self.player = Player()
           self.grass = Grass()
       
-          local csv = require('lib/csv')
+          local csv = require 'lib/csv'
           local file = io.open('src/squirrel-data.csv', 'r')
           local data = file:read('*a')
           file:close()
