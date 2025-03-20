@@ -12,7 +12,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 1. [Download Visual Studio Code](https://code.visualstudio.com/Download)
 2. [Download LÖVE](https://love2d.org/) -> install under Applications (Mac) or Program Files (Windows)
-3. [Download squirrels-template](https://drive.google.com/drive/folders/1Cppc49yuj7DFr-kQffVcl65eKnL7lnM-?usp=drive_link) -> unzip and keep in Downloads!
+3. [Download squirrels-template](https://drive.google.com/drive/folders/1rdpH3PDjWueu5ELJjlLEw53jXRVIv7bP?usp=sharing) -> unzip and keep in Downloads!
 
 
 ### **Game resources:**
