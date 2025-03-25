@@ -25,7 +25,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 6. Labeled sprite sheets and coordinate plane:
 <img width="155" height="215" alt="Screenshot 2025-02-26 at 8 09 52 PM" src="https://github.com/user-attachments/assets/cf662058-8055-48db-a4b8-2bce5f9d00f6" />
 <img width="215" height="215" alt="Character Sprite Sheet" src="https://github.com/user-attachments/assets/861bc49f-eee1-4f24-992e-6ac2d335d3ed" />
-<img width="300" height="215" alt="Grass Sprite Sheet" src="https://github.com/user-attachments/assets/f8217443-9cd3-44ff-9dbf-ae7473ea5bfd" />
 <img width="650" height="320" alt="Screenshot 2025-03-04 at 7 02 16 PM" src="https://github.com/user-attachments/assets/dd6cc686-572f-4b2d-b966-84f5b65e2781" />
 
 
