@@ -47,7 +47,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
       require 'src/entity_defs'
       require 'src/Player'
       require 'src/PlayState'
-      require 'src/Grass'
       require 'src/Squirrel'
       
       
@@ -71,7 +70,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
       
       gFrames = {
           ['player'] = GenerateQuads(gTextures['player'], 48, 48),
-          ['grass'] = GenerateQuads(gTextures['grass'], 64, 64),
           ['squirrels'] = GenerateQuads(gTextures['squirrels'], 32, 32)
       }
   ```
@@ -136,7 +134,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
       
       function love.draw()
           push:start()
-          love.graphics.clear(192/255, 212/255, 112/255)
+          love.graphics.draw(gTextures['grass], 0, 0)
           gStateMachine:render()
           push:finish()
       end
@@ -262,7 +260,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
       
       function PlayState:init()
           self.player = Player()
-          self.grass = Grass()
       
           local csv = require 'lib/csv'
           local file = io.open('src/squirrel-data.csv', 'r')
@@ -315,7 +312,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
       
       function PlayState:render()
           love.graphics.push()
-          self.grass:render()
           self.player:render()
       
           for index, squirrelData in ipairs(self.squirrels) do
@@ -340,55 +336,6 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 
 
-<details>
-  <summary><h3><b>Grass.lua</b></h3></summary>
-  
-  ```lua
-      Grass = Class{}
-      
-      
-      function Grass:init()
-          self.tile_size = 64
-          self.width = VIRTUAL_WIDTH/self.tile_size
-          self.height = math.floor(VIRTUAL_HEIGHT/self.tile_size)
-          self.tiles = {}
-          self:generate_grass()
-      end
-      
-      
-      function Grass:generate_grass()
-          for y = 1, self.height do
-              table.insert(self.tiles, {})
-      
-              for x = 1, self.width do
-                  if x == 1 and y == 1 then id = 1
-                  elseif x == 1 and y == self.height then id = 23
-                  elseif x == self.width and y == 1 then id = 3
-                  elseif x == self.width and y == self.height then id = 25
-      
-                  elseif x == 1 then id = 12
-                  elseif x == self.width then id = 14
-                  elseif y == 1 then id = 2
-                  elseif y == self.height then id = 24
-                  
-                  else id = math.random(56, 77) end
-      
-                  table.insert(self.tiles[y], {id = id})
-              end
-          end
-      end
-      
-      
-      function Grass:render()
-          for y = 1, self.height do
-              for x = 1, self.width do
-                  local tile = self.tiles[y][x]
-                  love.graphics.draw(gTextures['grass'], gFrames['grass'][tile.id], (x-1)*self.tile_size, (y-1)*self.tile_size)
-              end
-          end
-      end
-  ```
-</details>
 
 
 
@@ -446,7 +393,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 | graphics | grass.png, player.png, squirrels.png, tree.png  |   
 | lib            | Animation.lua, class.lua, csv.lua, push.lua, StateMachine.lua, Util.lua    |   
 | sounds        | animalcrossing.wav      |   
-| src            | dependencies.lua, entity_defs.lua, Grass.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
+| src            | dependencies.lua, entity_defs.lua, Player.lua, PlayState.lua, squirrel-data.csv, Squirrel.lua | 
 | main.lua (file)        |    
 
 
