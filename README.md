@@ -134,7 +134,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
       
       function love.draw()
           push:start()
-          love.graphics.draw(gTextures['grass], 0, 0)
+          love.graphics.draw(gTextures['grass'], 0, 0)
           gStateMachine:render()
           push:finish()
       end
