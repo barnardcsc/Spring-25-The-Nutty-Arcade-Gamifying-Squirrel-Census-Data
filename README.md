@@ -425,3 +425,10 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 1. Open your laptop's command prompt or terminal
 2. Copy + paste **```cd Downloads\squirrels-template```** into your terminal, then hit enter
 3. Copy + paste **```"C:\Program Files\LOVE\love.exe" .```** into your terminal, then hit enter
+
+
+
+## **Final product**
+
+<img width="1440" alt="Screenshot 2025-03-27 at 1 54 46 PM" src="https://github.com/user-attachments/assets/e6cbdff2-3c14-4cbb-9031-6c584e3ca531" />
+
