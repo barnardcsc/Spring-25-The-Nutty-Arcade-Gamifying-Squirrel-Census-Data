@@ -4,9 +4,8 @@ The Nutty Arcade: Gamifying Squirrel Census Data 🐿️
 
 NYC Open Data Week 2025 Workshop
 
-Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vagelos Computational Science Center)
+Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vagelos Computational Science Center; Email: kmatschk@barnard.edu)
 
-Email: kmatschk@barnard.edu
 
 
 ### **Dataset:** [Squirrel Census Data](https://www.dropbox.com/scl/fi/is2yaa5gz1of32xo1xwvd/squirrel-data.csv?rlkey=sao5wj2tqd98nzs6rsi5k7ot6&e=2&dl=0)
