@@ -432,7 +432,7 @@ Email: kmatschk@barnard.edu
 
 
 
-## **Final product**
+## **Game snapshot**
 
 <img width="1440" alt="Screenshot 2025-03-27 at 1 54 46 PM" src="https://github.com/user-attachments/assets/e6cbdff2-3c14-4cbb-9031-6c584e3ca531" />
 
