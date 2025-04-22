@@ -441,4 +441,4 @@ Email: kmatschk@barnard.edu
 
 ## **Acknowledgements**
 
-Thank you to the NYC Open Data Team at the Office of Technology and Innovation (OTI), BetaNYC, and Data Through Design for organizing and producing this annual festival. Thank you to the Barnard College's Vagelos Computational Science Center for the platform to host this event as part of our workshop series. And a big thank you to HarvardX's CS50G: Introduction to Game Development course and faculty for providing me the tools to learning how to build 2D video games using Lua and LÖVE. 
+Thank you to the NYC Open Data Team at the Office of Technology and Innovation (OTI), BetaNYC, and Data Through Design for organizing and producing this annual festival. Thank you to Barnard College's Vagelos Computational Science Center (CSC) for the platform to host this event as part of our regular workshop series. And a big thank you to HarvardX's CS50G: Introduction to Game Development course and faculty for providing me the tools to learning how to build 2D video games using Lua and LÖVE. 
