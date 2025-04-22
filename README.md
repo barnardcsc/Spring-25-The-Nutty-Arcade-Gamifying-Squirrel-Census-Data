@@ -8,6 +8,8 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 Email: kmatschk@barnard.edu
 
+### [**Workshop slides**](https://docs.google.com/presentation/d/1Xq5rhWH97H1BmA72rxYvdYCZYtlLIsuKJq6jqbLGGQM/edit?usp=sharing)
+
 
 
 ### **Dataset:** [Squirrel Census Data](https://www.dropbox.com/scl/fi/is2yaa5gz1of32xo1xwvd/squirrel-data.csv?rlkey=sao5wj2tqd98nzs6rsi5k7ot6&e=2&dl=0)
