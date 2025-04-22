@@ -8,7 +8,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 Email: kmatschk@barnard.edu
 
-#### **Workshop slides can be found [here**](https://docs.google.com/presentation/d/1Xq5rhWH97H1BmA72rxYvdYCZYtlLIsuKJq6jqbLGGQM/edit?usp=sharing)
+### **Workshop slides can be found [here**](https://docs.google.com/presentation/d/1Xq5rhWH97H1BmA72rxYvdYCZYtlLIsuKJq6jqbLGGQM/edit?usp=sharing)
 
 
 
